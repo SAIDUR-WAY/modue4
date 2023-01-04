@@ -2,3 +2,7 @@ h3 {
     text-transform: uppercase;
     color: grey;
 }
+form label {
+    display: block;
+    margin-bottom: 10px;
+}
